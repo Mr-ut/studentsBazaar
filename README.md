@@ -6,7 +6,7 @@ The Buy and Sell App is a Flutter-based application designed for campus students
 
 ## Features
 
-- **User Authentication:** Secure Outlook ID login for user authentication.
+- **User Authentication:** Secure Outlook ID/Google login for user authentication.
 - **User Profiles:** Create and manage user profiles with avatars, display names, and email addresses.
 - **Item Listing:** List items for sale, including uploading images and providing item descriptions.
 - **Product Search:** Search functionality to find specific items.
