@@ -3,6 +3,7 @@
 ## Overview
 
 The Buy and Sell App is a Flutter-based application designed for campus students to buy and sell items easily. The app provides a secure platform for users to list items for sale, browse available products, negotiate prices via chat, and manage transactions efficiently.
+
 ![image](https://github.com/user-attachments/assets/4b2254e6-92cc-45c0-9d9c-ee7ca46214a9)
 ![image](https://github.com/user-attachments/assets/9002d685-28be-47a7-a2a4-2b26ae6bdc1c)
 
